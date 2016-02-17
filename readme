@@ -1,1 +1,7 @@
-readme test blank paper
+
+nihao readme test blank paper
+
+<pre>
+<p> 在readme添加以下内容:<b> #Runoob git test</b>, 然后保存退出.</p>
+<p>再执行一下git status:</p>
+
